@@ -3,3 +3,124 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+Header 
+{
+    background-color: burlywood; 
+    background-size: 150px; 
+    width: 1500px; height: 125px;
+}
+    #mainLogo 
+    {
+        font-size: 300%; 
+        color: rgb(110, 57, 20)  ;
+    }
+Body 
+{
+    background-color: rgb(189, 132, 91);
+}
+.topright 
+{
+    color: white;
+}
+.topright1 
+{
+    position: absolute; 
+    left: 650px; 
+    bottom: 535px;
+    background-color: rgb(110, 57, 20); 
+    width: 90px;
+    height: 40px;
+    text-align: center;  
+}
+.topright2 
+{
+    position: absolute; 
+    left: 800px; 
+    bottom: 535px;
+    background-color: rgb(110, 57, 20); 
+    width: 90px;
+    height: 40px;
+    text-align: center; 
+}
+.topright3 
+{
+    position: absolute; 
+    left: 950px; 
+    bottom: 535px;
+    background-color: rgb(110, 57, 20); 
+    background-position: center;
+    width: 90px;
+    height: 40px;
+    text-align: center; 
+}
+.topright4 {position: absolute;
+     left: 1100px; 
+     bottom: 535px;
+    background-color: rgb(110, 57, 20); 
+    background-position: center;
+    width: 90px;
+    height: 40px;
+    text-align: center; 
+}
+#flights {
+    background-color: white;
+    width: 250px;
+    height: 150px;
+    border: 4px solid black;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+    left: 100px;
+}
+
+#grouptrips 
+{
+    background-color: white;
+    width: 250px;
+    height: 150px;
+    border: 4px solid black;
+    padding: 20px;
+    margin: 20px;
+    left: 100px;
+    position: absolute;
+    left: 500px;
+}
+#discountflights 
+{
+    background-color: white;
+    width: 250px;
+    height: 150px;
+    border: 4px solid black;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+    left: 900px;
+}
+#aboutus 
+{
+    background-color: white;
+    width: 1150px;
+    height: 150px;
+    border: 4px solid black;
+    padding: 20px;
+    margin: 20px;
+    position: absolute;
+    left: 50px;
+    top: 350px;
+}
+.infolink 
+{
+   color: white; 
+   background-color:rgb(110, 57, 20); 
+   width: 250px;
+   height: 50px;
+   text-align: center;
+}
+.infolink1 
+{
+   color: white; 
+   background-color: rgb(110, 57, 20); 
+   width: 1150px;
+   height: 50px;
+   text-align: center;
+}
